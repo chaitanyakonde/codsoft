@@ -1,15 +1,15 @@
 # codsoft Internship Tasks 
-task no 2: CALCULATOR
+# Task no 2: CALCULATOR
 
 Design a simple calculator with basic arithmetic operations.Prompt the user to input two numbers and an operation choice.Perform the calculation and display the result.
 
-task no 3 : PASSWORD GENERATOR
+# Task no 3 : PASSWORD GENERATOR
 
 A password generator is a useful tool that generates strong and
 
 random passwords for users. This project aims to create apassword generator application using Python, allowing users to specify the length and complexity of the password.
 
-Task no 4: Rock-Paper-Scissors Game
+# Task no 4: Rock-Paper-Scissors Game
 
 User Input: Prompt the user to choose rock, paper, or scissors. 
 
